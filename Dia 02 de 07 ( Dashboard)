@@ -1,0 +1,13 @@
+
+Data Visualization & Storytelling
+
+O Objetivo do dia 02/07 era investigar os dados já tratados e gerar visualizações para identificar padrões estranhos ou estatísticas interessantes. 
+A combinação de bons gráficos e visualizações com uma história bem contada, é capaz de fazer qualquer audiência entender os resultados do trabalho 
+— seja a explicação do resultado de um teste de hipótese ou análise estatística, ou mesmo a comunicação dos resultados do seu modelo de Machine Learning.
+
+Para isso criei um DASHBOARD interativo no Power Bi, identificando:
+
+# Qual foi o senador que mais declarou despesas? 
+# Qual foi o percentual da cota que os senadores gastaram?
+# Quais são as despesas recorrentes?
+
